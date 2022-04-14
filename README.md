@@ -7,19 +7,19 @@ Esse projeto foi realizado em grupo e os devidos créditos estão sendo ofertado
 Tecnologias utilizadas: 
 
 Comunicação:
-Slack
-Discord
+-Slack,
+-Discord
 
-Metodologias Ágeis
+Metodologias Ágeis:
 Trello (Kanban)
 
 Ferramentas:
-Git
-GitHub
-HTML
-CSS
-REACT
-REDUX
-Consumo de API's
-JavaScript
+Git,
+GitHub,
+HTML,
+CSS,
+REACT,
+REDUX,
+Consumo de API's,
+JavaScript.
 
